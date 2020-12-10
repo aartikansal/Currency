@@ -1,10 +1,8 @@
 
 import java.util.ArrayList;
 import java.util.List;
-
 /*
 Currencies
-
 */
 
 public class SolveCurrency {
