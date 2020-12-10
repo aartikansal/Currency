@@ -1,2 +1,12 @@
-public class Euro {
+
+public class Euro extends Money {
+
+    Euro(double amount) {
+        super(amount);
+    }
+
+    @Override
+    public String getCurrencyName() {
+        return "EUR";
+    }
 }
